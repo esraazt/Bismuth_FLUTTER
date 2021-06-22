@@ -1,7 +1,9 @@
 # Bismuth
 
+In this project, we seek to improve geologists’ productivity through end-to-end automation by developing a mobile application (Bismuth) to identify the rock type during the fieldwork. Besides giving the geologist the ability to take notes, enter their coordinates, insert photos and add the general field data. To assist them with the rock identification process, minimize the field study tools (GPS, Camera, compass, notebook ..etc) and to accelerate the workflow. 
 
-A new Flutter project.
+the UI description in Arabic: 
+https://www.youtube.com/watch?v=bOKW7SdwDtg
 
 ## Getting Started
 
